@@ -1,0 +1,41 @@
+Match_ID,Date,Home_Team,Away_Team,Home_Goals,Away_Goals,Stadium,Attendance,Referee
+1,2024-02-03,Alianza Lima,Universitario,2,1,Matute,32000,Kevin Ortega
+2,2024-02-04,Sporting Cristal,Melgar,3,3,Estadio Nacional,,Diego Haro
+3,2024/02/05,Cienciano,UTC Cajamarca,1,0,Garcilaso,15000,
+4,05-02-2024,Alianza Lima, Cusco FC,2,,Matute,28000,Kevin Ortega
+5,2024-02-06,Universitario,Sport Boys,4,1,Monumental,45000,Augusto Menéndez
+6,2024-02-07,Melgar,Alianza Atlético,2,1,UNSA,18000,Diego Haro
+7,2024-02-08,UTC Cajamarca,Carlos A. Mannucci,1,1,Germán Contreras,8000,Kevin Ortega
+8,2024-02-09,Sporting Cristal,Universitario,0,0,Estadio Nacional,35000,
+9,2024-02-10,Cusco FC,Alianza Lima,1,3,García,12000,Diego Haro
+10,2024-02-11,Sport Boys,Melgar,two,2,Miguel Grau,14000,Augusto Menendez
+11,2024-02-12,Universitario,Alianza Lima,1,1,Monumental,50000,Kevin Ortega
+12,2024-02-13,Alianza Atlético,Sporting Cristal,0,2, Campeones del 36,9000,Diego Haro
+13,2024-02-14,Carlos A. Mannucci,UTC Cajamarca,2,1,Mansiche,11000,Kevin Ortega
+14,2024-02-15,Melgar,Cienciano,3,0,UNSA,17000,Diego Haro
+15,2024-02-16,Universitario,,2,0,Monumental,42000,Augusto Menéndez
+16,2024-02-17,Alianza Lima,Melgar,1,2,Matute,30000,Kevin Ortega
+17,2024-02-18,Sporting Cristal,Sport Boys,2,0,Estadio Nacional,38000,Diego Haro
+18,18-02-2024,Cienciano,Universitario,0,1,Garcilaso,16000,Kevin Ortega
+19,2024-02-19,UTC Cajamarca,Alianza Lima,0,0,Germán Contreras,9000,
+20,2024-02-20,Melgar,Cusco FC,3,1,UNSA,17500,Diego Haro
+21,2024-02-21,Universitario,Sporting Cristal,2,2,Monumental,48000,Kevin Ortega
+22,2024/02/22,Sport Boys,Alianza Atlético,1,1,Miguel Grau,13000,Augusto Menendez
+23,2024-02-23,Carlos A. Mannucci,Melgar,0,2,Mansiche,10000,Diego Haro
+24,2024-02-24,Alianza Lima,Cienciano,3,0,Matute,34000,Kevin Ortega
+25,2024-02-25,Sporting Cristal,UTC Cajamarca,4,1,Estadio Nacional,36000,
+26,2024-02-26,Cusco FC,Universitario,1,2,García,,Kevin Ortega
+27,2024-02-27,Melgar,Sport Boys,2,2,UNSA,16500,Diego Haro
+28,2024-02-28,Alianza Atlético,Carlos A. Mannucci,0,1,Campeones del 36,8500,Kevin Ortega
+29,2024-02-29,Universitario,Melgar,3,2,Monumental,47000,Augusto Menéndez
+30,2024-03-01,UTC Cajamarca,Sporting Cristal,0,3,Germán Contreras,9200,Diego Haro
+31,2024-03-02,Cienciano,Sport Boys,1,1,Garcilaso,15500,
+32,2024-03-03,Alianza Lima,Alianza Atlético,4,0,Matute,35000,Kevin Ortega
+33,2024-03-04,Sporting Cristal,Carlos A. Mannucci,2,1,Estadio Nacional,37000,Diego Haro
+34,2024-03-05,Melgar,Universitario,1,1,UNSA,18000,Kevin Ortega
+35,2024-03-06,Sport Boys,Cusco FC,one,2,Miguel Grau,12500,Augusto Menendez
+36,2024-03-07,UTC Cajamarca,Cienciano,2,2,Germán Contreras,8800,Kevin Ortega
+37,2024-03-08,Universitario,Alianza Lima,0,0,Monumental,51000,
+38,2024-03-09,Carlos A. Mannucci,Sporting Cristal,0,3,Mansiche,10500,Diego Haro
+39,2024-03-10,Cusco FC,Melgar,1,4,García,14000,Kevin Ortega
+40,2024-03-11,Alianza Atlético,Sport Boys,2,1,Campeones del 36,9100,Diego Haro
